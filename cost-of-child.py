@@ -8,6 +8,8 @@ st.markdown('''
 Interactive demonstration of how the cost of having a child differs between developing 
 and developed countries. Inspired by video from [Economics Explained](https://www.youtube.com/watch?v=YYvLEbC3kn8&t=76s)''')
 
+st.image("cost-of-childcare-illustration.png")
+
 col1, col2 = st.columns(2)
 
 with col1:
